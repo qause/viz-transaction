@@ -2,4 +2,4 @@ language: dart
 dart_task:
   - dartfmt: sdk
   - test
-  - dartanalyzer: true
+  - dartanalyzer: false
